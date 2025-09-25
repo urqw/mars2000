@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>9936861750E7BA938B6CF368E0188697</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Марс 2000</title>
+			<author>Chicago1920</author>
+			<language>ru</language>
+			<headline>Фантазии на тему "Марсианских хроник" Рея Бредбери</headline>
+			<firstpublished>2011-07-23</firstpublished>
+			<genre>Поэзия</genre>
+			<group>URQ</group>
+			<description>Эпиграф.<br/>Я, конечно, подружусь с ними, расскажу, что наша ракета неожиданно взорвалась, — я взорву ее на этой же неделе, как только управлюсь с вами, — а потом всех их прикончу. На полвека-то удастся отстоять Марс. Земляне, вероятно, скоро прекратят попытки.  <br/>Спендер. ("Марсианские хроники". Рей Бредбери).<br/>Моей жене Светлане с искренней любовью.<br/>Идея, текст, программинг: Chicago1920<br/>Редактирование текста: Александр Граф<br/>Графическое оформление: Анастасия Голубева (Nansi) - "На Марсе классно"<br/>Тема оформления: Алексадр Граф<br/>Музыкальное сопровождение: Jimmy eat world - "Hear you me"<br/>Автор четверостиший концовок: Лорд Байрон<br/>Зарифмовано с помощью сайта http://slovorifmus.abcdrecords.ru<br/>Специально для развлекательно-поэтического мероприятия "СтИЛуС"</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#mars2000</url>
+			<authoremail>chicago1920@mail.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-25</originated>
+		</colophon>
+	</story>
+</ifindex>
